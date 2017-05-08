@@ -13,6 +13,7 @@ If you want to create a migration file, you have to use followed command in term
 ```
 php index.php migration generate <fileName>
 ```
+This command creates a migration file in **application/migrations** folder.
 
 ### b. Migrate all migration file
 If you want to migrate all migrations file, you have to use followed command in terminal at root directory.
@@ -27,4 +28,4 @@ If you want to migrate one migration via version, you have to use followed comma
 ```
 php index.php migration version <versionkey>
 ```
-**Note:** versionKey is the timestamp at the file. 
+**Note:** versionKey is the timestamp at the file name. 
