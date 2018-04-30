@@ -1,5 +1,5 @@
-# codeigniter-migration
-This project aims to facilitate migration system while developing applications with CodeIgniter.
+# codeigniter3x-migration
+This project aims to facilitate migration system while developing applications with CodeIgniter 3.x
 
 ## Installation
 Only, you have to copy all folders to application folder.<br />
