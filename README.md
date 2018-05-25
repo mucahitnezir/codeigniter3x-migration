@@ -15,8 +15,8 @@ php index.php migration generate <fileName>
 ```
 This command creates a migration file in **application/migrations** folder.
 
-### b. Migrate all migration file
-If you want to migrate all migrations file, you have to use followed command in terminal at root directory.
+### b. Migrate all migration files
+If you want to migrate all migration files, you have to use followed command in terminal at root directory.
 ```
 php index.php migration
 or
